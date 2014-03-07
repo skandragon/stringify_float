@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.email         = ["explorer@flame.org"]
   spec.description   = %q{Work around poor floating point support with RubyMotion and Core Data}
   spec.summary       = %q{Work around poor floating point support in RubyMotion + Core Data}
-  spec.homepage      = ""
-  spec.license       = ""
+  spec.homepage      = "https://github.com/skandragon/stringify_float"
+  spec.license       = "MIT"
 
   files = []
   files << 'README.md'
