@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/skandragon/stringify_float.png?branch=master)](https://travis-ci.org/skandragon/stringify_float)
+
 # stringify_float
 
 RubyMotion on 32-bit iOS devices suffers from poor floating point support:
